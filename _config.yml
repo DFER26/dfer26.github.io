@@ -14,16 +14,16 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: My Website # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: This is a personal site # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://dfer26.github.io/"
 
 github:
   username: github_username # change to your GitHub username
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://scontent.fkul21-1.fna.fbcdn.net/v/t1.6435-9/157608032_10222589893469337_4043096784317101337_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=1d70fc&_nc_eui2=AeHtdJUTkomuRRu_2AdtCHmgGvJFZsPMtMka8kVmw8y0yVlrt-lDSH9mlFJne7GEe98&_nc_ohc=thiS9HL5em8Q7kNvgFt9jGR&_nc_ht=scontent.fkul21-1.fna&_nc_gid=ARDIRj0-OGxeAsldZ7rmh38&oh=00_AYCOSBnpmdAY4NnLaOF-d06KayEK5c5QRdIqiajpnXwWNQ&oe=6741017A
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
